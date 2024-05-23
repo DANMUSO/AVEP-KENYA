@@ -1,0 +1,33 @@
+services:
+
+  ngoapp:
+    container_name: ngoapp
+    build: .
+    volumes:
+      - ./ngoapp:/var/www/html
+    ports:
+      - 9904:80
+    networks:
+      - ngoappnet
+  mysqldbngoapp:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: ngoappdb
+    restart: unless-stopped
+    ports:
+      - 3955:3306
+    networks:
+      - ngoappnet
+  phpmyadminngoapp:
+    image: phpmyadmin:latest
+    ports:
+      - 9942:80
+    environment:
+      - PMA_ARBITRARY=1
+    networks:
+      - ngoappnet
+networks:
+  ngoappnet:
+    driver: bridge
+    
