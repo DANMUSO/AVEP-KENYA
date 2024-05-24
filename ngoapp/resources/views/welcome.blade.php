@@ -863,7 +863,7 @@ inception in 2007 to date:
         <ul class="faq-list">
 
           <li>
-            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">BUSINESS ADVISORY DESK <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Business Advisory Desk<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq1" class="collapse" data-bs-parent=".faq-list">
               <p style=" text-align: justify;text-justify: inter-word;">
               The business advisory desk is designed for the youth in business or intending to start a business. Our aim
@@ -878,7 +878,7 @@ inception in 2007 to date:
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">ACTION VIJANA TALENT ACADEMY<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Action Vijana Talent Academy<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq2" class="collapse" data-bs-parent=".faq-list">
               <p style=" text-align: justify;text-justify: inter-word;">
               This is meant to be a kitchen to nurture all kinds of talents including music, sports and other exceptional
@@ -890,7 +890,7 @@ inception in 2007 to date:
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">SKILLS TRAINING LAB <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Skills Training Lab<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq3" class="collapse" data-bs-parent=".faq-list">
               <p style=" text-align: justify;text-justify: inter-word;">
               This is meant to equip youth with skills that will help them become productive members of the society
@@ -903,7 +903,7 @@ inception in 2007 to date:
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">PROFESSIONAL AND SPIRITUAL MENTORSHIP <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Professional and Spiritual Mentorship<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq4" class="collapse" data-bs-parent=".faq-list">
               <p style=" text-align: justify;text-justify: inter-word;">
               Designed for youths who need guidance and counseling and at the same time pursue employment, job
@@ -914,7 +914,7 @@ inception in 2007 to date:
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">LIBRARY SERVICES<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Library Services<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq5" class="collapse" data-bs-parent=".faq-list">
               <p style=" text-align: justify;text-justify: inter-word;">
               This one is designed for youths with a passion for reading and doing private studies. This facility is
@@ -926,7 +926,7 @@ inception in 2007 to date:
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">ACHIEVEMENTS<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">Achievements<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq6" class="collapse" data-bs-parent=".faq-list">
               <p style=" text-align: justify;text-justify: inter-word;">
               Over the years we have made so many achievements while engaging a variety of activities we are
@@ -1031,8 +1031,8 @@ inception in 2007 to date:
       </div>
 
       <div>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31911.318104906015!2d36.8801732303251!3d-1.219402550920036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f3f2c6767a06b%3A0xfea559ff73435b92!2sSmith%20Executive%20Carwash!5e0!3m2!1sen!2ske!4v1716547597667!5m2!1sen!2ske" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31911.354001632964!2d36.85879290103911!3d-1.216370874670092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f4759bbd2d85b%3A0xc8203118a1f30934!2sAutospin%20Carwash%20and%20Detailing%20Services!5e0!3m2!1sen!2ske!4v1716548691413!5m2!1sen!2ske" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+         </div>
 
       <div class="container">
 
@@ -1106,7 +1106,7 @@ inception in 2007 to date:
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="footer-info">
               <h3>Medicio</h3>
               <p>Carwash Kasarani Claycity at 
@@ -1117,7 +1117,7 @@ inception in 2007 to date:
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.facebook.com/Actionvijanacollege" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                 <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
@@ -1125,36 +1125,27 @@ inception in 2007 to date:
             </div>
           </div>
 
-          <div class="col-lg-2 col-md-6 footer-links">
+          <div class="col-lg-4 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Projects</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Team Leaders</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+          <div class="col-lg-4 col-md-6 footer-links">
+            <h4>Our Projects</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Business Advisory Desk</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Action Vijana Talent Academy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Skills Training Lab</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Professional and Spiritual Mentorship</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-
-          </div>
+        
 
         </div>
       </div>
